@@ -84,6 +84,15 @@
                         </select>
                     </td>
                 </tr>
+                <tr> <td> Licence </td> 
+                    <td>
+                        <select name="speed" id="speed">
+                          <option>All right reserved</option>
+                          <option>Atributions</option>
+                          <option selected="selected">Atribute allone</option>
+                        </select>
+                    </td>
+                </tr>
             </table>
 
             
