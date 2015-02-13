@@ -1,0 +1,21 @@
+#page{
+    border:1px solid black;
+    width:800px;
+}
+
+#top{
+    background-color:gray;
+}
+
+#title{
+    margin-left:0px;
+}
+
+#login{
+    margin-right:0px;
+}
+
+#bel{
+    width:20px;
+    height:20px;
+}
