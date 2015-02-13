@@ -94,10 +94,10 @@
                     </td>
                 </tr>
             </table>
-
             
 
         </div>
+        <div> Floating div </div>
     </div>
     
 
